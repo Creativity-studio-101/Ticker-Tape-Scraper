@@ -3,6 +3,7 @@ Python Code to Scrape company data from Ticker tape
 
 # How It Works
 Reads company names from Missing.csv.
+
 Opens Tickertape using Microsoft Edge WebDriver.
 For each company:
 Searches and selects the company.
