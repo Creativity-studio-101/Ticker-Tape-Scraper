@@ -12,7 +12,7 @@ Scrapes Balance Sheet, Income Statement, and Cash Flow data.
 Saves each statement as a separate .csv file.
 
 # Notes
-Ensure Missing.csv is in the same folder as the script.
+Ensure Company.csv is in the same folder as the script.
 
 Works best with Microsoft Edge installed.
 
